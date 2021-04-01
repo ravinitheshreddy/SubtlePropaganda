@@ -17,15 +17,17 @@ The original and primary dataset for this project is taken from [here](https://w
    3. JAG: THE PROMISED LAND
    4. NUMB3RS: ALL'S FAIR
    5. CAPTAIN PHILLIPS
+   6. TRANSFORMERS
+   7. TRANSFORMERS 2
+   8. TRANSFORMERS 3
 
 5. We added additional text from the the offical document released by the US [Department of Defence](https://drive.google.com/file/d/1NeDVYu_gvEhtdQVtSFPRIapHDxJx6842/view) for the following movies.
 
    1. THE TUSKEGEE AIRMEN: Added year for the FILM and added additional text about the TV movie in seperate rows
+   2. MAGNUM PI: Created a second row as the support was provided for a single episode that aired in two part
 
-6. We added the IMDB ids and/years for film that we can find online.
-   1. Aftermath: Added IMDB ID and year. The name was changed after release to Crash: The Mystery of Flight 1501.
-   2. THUNDER RUN: Added Remarks from the official document.
-   3. SAIGON: Added year
+6. Other changes
+   1. THUNDER RUN: Added Remarks from the official document.
 
 ## Change 1: March 20th, 2021
 
