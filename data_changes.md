@@ -26,7 +26,86 @@ The original and primary dataset for this project is taken from [here](https://w
    1. THE TUSKEGEE AIRMEN: Added year for the FILM and added additional text about the TV movie in seperate rows
    2. MAGNUM PI: Created a second row as the support was provided for a single episode that aired in two part
 
-6. Other changes
+6. We removed the text "No File" from the remarks as it indicates only whether DoD currently has a file with them or not and "No Record of Film being made/produced" or similar meaning sentences from the remarks of those movies that have the IMDB ID. The list is as below.
+
+   1. 1ST FORCE
+   2. 3RD DEGREE
+   3. 50/50
+   4. ADVENTURES OF MARY-KATE & ASHLEY
+   5. AIRPOWER VIETNAM, THE REAP TOP GUN
+   6. AMAZING GRACE AND CHUCK
+   7. AMELIA EARHART: THE FINAL FLIGHT
+   8. AMERICA, YOU'RE TOO YOUNG TO DIE
+   9. ANGEL IN GREEN
+   10. ANGEL'S FLIGHT
+   11. B.R.A.T. PATROL, THE
+   12. BIRDY
+   13. BRIDGE TO THE SUN
+   14. BUFFALO SOLIDERS
+   15. CODE 3
+   16. CONTACT
+   17. DESERT STORM- THE MOVIE
+   18. DESTINY
+   19. DISTANT THUNDER
+   20. FLIGHT DECK
+   21. FLIGHT TO NOWHERE
+   22. FLYING BLIND
+   23. GOLDENEYE
+   24. GREAT IMPOSTOR, THE
+   25. HEALTH CLUB
+   26. IN COUNTRY
+   27. IN THE LINE OF DUTY, STANDOFF AT MARION
+   28. INTERCEPTOR
+   29. JAG
+   30. JAG, JINX
+   31. JAG, ACT OF TERROR
+   32. JAG, ANGELS 30
+   33. JAG, KING OF THE GREENIE BOARD
+   34. JAG, RULES OF ENGAGEMENT
+   35. JAG, FORCE RECON
+   36. JAG, TIGER, TIGER
+   37. JAG, INNOCENCE
+   38. JEREMY'S EGG
+   39. LARGER THAN LIFE
+   40. LE NOUVEAU MONDE
+   41. LIFE FLIGHT
+   42. MAC AND ME
+   43. MY FATHER, MY SON
+   44. NAVY BLUE AND GOLD
+   45. OPERATION DUMBO DROP
+   46. OUTBREAK
+   47. PASS THE AMMUNITION
+   48. PEREZ FAMILY, THE
+   49. PIONEER CHRISTMAS
+   50. PSYCHE FILES
+   51. PUPPET MASTERS
+   52. PURPLE HEARTS
+   53. RECOVERY
+   54. RETREADS
+   55. ROBOJOX
+   56. RUSSKIES
+   57. SAIGON
+   58. SHEPHERD, THE
+   59. STAND, THE
+   60. SUBMARINE PIRATE
+   61. THE ADVENTURES OF MARK AND BRIAN, THE ADVENTURES OF MARK AND BRIAN IN FATHERHOOD
+   62. THE ADVENTURES OF MARK AND BRIAN, MARK AND BRIAN'S ARMY ADVENTURE
+   63. THE AMERICAN DREAM CONTEST
+   64. THE ANG, AMERICA'S HIDDEN STRENGTH
+   65. THE GRAND TOUR
+   66. THE HAUNTING OF SARAH HARDY
+   67. THE HIJACKING OF THE ACHILLE LAURO
+   68. THE Q STREET
+   69. THE SPEED OF LIGHT
+   70. TIME TO TRIUMPH, A
+   71. TRIP WIRE
+   72. TURKEY SHOOT
+   73. TWISTER'S REVENGE
+   74. VON METZ INCIDENT, THE
+
+7. We have corrected spellings of the words in the remarks section. However, this correction is not exhaustive.
+
+8. Other changes
    1. THUNDER RUN: Added Remarks from the official document.
 
 ## Change 1: March 20th, 2021
