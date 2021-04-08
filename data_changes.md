@@ -2,7 +2,39 @@
 
 The original and primary dataset for this project is taken from [here](https://www.kaggle.com/ksb357/military-hollywood-collaboration-database). In this document we track the changes made to the dataset.
 
-## Change 2: March 23rd, 2021
+## Summary
+
+Change 1: We added IMDB ids to the movies and the TV shows for which we could find without ambiguity.
+
+Change 2:
+
+- We added IMDB ids by looking at the official document released by the US DoD.
+- We merged the same movie/tv series rows.
+- We did basic spelling correction in the remarks
+
+Change 3:
+
+- We updated the status of assistance.
+- We appened additional data of Release Date, Directors, Plot, Awards, Runtime, IMDB Ratings and generes.
+
+## Details
+
+### Change 3: April 08th, 2021
+
+1. We changed the status of the following films after looking at the offical document released by the US [Department of Defence](https://drive.google.com/file/d/1NeDVYu_gvEhtdQVtSFPRIapHDxJx6842/view).
+
+   1. WAR OF THE WORLDS: From _RCV_ to _APP_.
+   2. WAR PARTY: From _RCV_ to _OTH_, as the film crew withdrew request.
+   3. YEAR IN THE LIFE, A: From _RCV_ to _DEN_.
+   4. FLYING BLIND: From _RCV_ to _DEN_.
+   5. GARDENS OF STONE: From _RCV_ to _APP_.
+   6. MEGAFORCE: From _RCV_ to _APP_.
+   7. SWEETWINE & TYREE: From _RCV_ to _DEN_.
+   8. MYSTIC NIGHTS & PIRATE FIGHTS: From empty to _APP_.
+
+2. We have updated the year of the film and appened additional data of Release Date, Directors, Plot, Awards, Runtime, IMDB Ratings and generes obtained from OMDB API.
+
+### Change 2: March 23rd, 2021
 
 1. We added IMDB ids those movies and TV shows that are not yet there after March 20th, 2021 by looking at the offical document released by the US [Department of Defence](https://drive.google.com/file/d/1NeDVYu_gvEhtdQVtSFPRIapHDxJx6842/view).
 
@@ -29,18 +61,7 @@ The original and primary dataset for this project is taken from [here](https://w
    1. THE TUSKEGEE AIRMEN: Added year for the FILM and added additional text about the TV movie in seperate rows
    2. MAGNUM PI: Created a second row as the support was provided for a single episode that aired in two part
 
-7. We changed the status of the following films after looking at the offical document released by the US [Department of Defence](https://drive.google.com/file/d/1NeDVYu_gvEhtdQVtSFPRIapHDxJx6842/view).
-
-   1. WAR OF THE WORLDS: From _RCV_ to _APP_.
-   2. WAR PARTY: From _RCV_ to _OTH_, as the film crew withdrew request.
-   3. YEAR IN THE LIFE, A: From _RCV_ to _DEN_.
-   4. FLYING BLIND: From _RCV_ to _DEN_.
-   5. GARDENS OF STONE: From _RCV_ to _APP_.
-   6. MEGAFORCE: From _RCV_ to _APP_.
-   7. SWEETWINE & TYREE: From _RCV_ to _DEN_.
-   8. MYSTIC NIGHTS & PIRATE FIGHTS: From empty to _APP_.
-
-8. We removed the text "No File" from the remarks as it indicates only whether DoD currently has a file with them or not and "No Record of Film being made/produced" or similar meaning sentences from the remarks of those movies that have the IMDB ID. The list is as below.
+7. We removed the text "No File" from the remarks as it indicates only whether DoD currently has a file with them or not and "No Record of Film being made/produced" or similar meaning sentences from the remarks of those movies that have the IMDB ID. The list is as below.
 
    1. 1ST FORCE
    2. 3RD DEGREE
@@ -117,11 +138,11 @@ The original and primary dataset for this project is taken from [here](https://w
    73. TWISTER'S REVENGE
    74. VON METZ INCIDENT, THE
 
-9. We have corrected spellings of the words in the remarks section. However, this correction is not exhaustive.
+8. We have corrected spellings of the words in the remarks section. However, this correction is not exhaustive.
 
-10. Other changes
-    1. THUNDER RUN: Added Remarks from the official document.
+9. Other changes
+   1. THUNDER RUN: Added Remarks from the official document.
 
-## Change 1: March 20th, 2021
+### Change 1: March 20th, 2021
 
 We added IMDB ids to the movies and the TV shows for which we could find without ambiguity.
