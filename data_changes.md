@@ -20,6 +20,7 @@ The original and primary dataset for this project is taken from [here](https://w
    6. TRANSFORMERS
    7. TRANSFORMERS 2
    8. TRANSFORMERS 3
+   9. WHISKEY TANGO FOXTROT
 
 5. We added additional text from the the offical document released by the US [Department of Defence](https://drive.google.com/file/d/1NeDVYu_gvEhtdQVtSFPRIapHDxJx6842/view) for the following movies.
 
