@@ -128,3 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .history/
+
+# datasets folder
+
+.DS_Store
+.virtual_documents/
