@@ -8,9 +8,11 @@ The original and primary dataset for this project is taken from [here](https://w
 
 2. We added dates those movies and TV shows that are not yet there by looking at the offical document released by the US [Department of Defence](https://drive.google.com/file/d/1NeDVYu_gvEhtdQVtSFPRIapHDxJx6842/view).
 
-3. For the movies and TV shows that were never produced, we write **NA** in the IMDB title field.
+3. For the movies and TV shows that were never produced, we write **Never Made** in the IMDB title field.
 
-4. We merged/deleted the rows of the following movies and TV shows as they represent the same movie/TV show.
+4. For those movies and TV shows that we were not able to identify on the internet even with the help of the offical document released by the US [Department of Defence](https://drive.google.com/file/d/1NeDVYu_gvEhtdQVtSFPRIapHDxJx6842/view), the IMDB IDs are left empty.
+
+5. We merged/deleted the rows of the following movies and TV shows as they represent the same movie/TV show.
 
    1. BATTLEGROUND
    2. 84 CHARLIE MOPIC
@@ -22,12 +24,12 @@ The original and primary dataset for this project is taken from [here](https://w
    8. TRANSFORMERS 3
    9. WHISKEY TANGO FOXTROT
 
-5. We added additional text from the the offical document released by the US [Department of Defence](https://drive.google.com/file/d/1NeDVYu_gvEhtdQVtSFPRIapHDxJx6842/view) for the following movies.
+6. We added additional text from the the offical document released by the US [Department of Defence](https://drive.google.com/file/d/1NeDVYu_gvEhtdQVtSFPRIapHDxJx6842/view) for the following movies.
 
    1. THE TUSKEGEE AIRMEN: Added year for the FILM and added additional text about the TV movie in seperate rows
    2. MAGNUM PI: Created a second row as the support was provided for a single episode that aired in two part
 
-6. We removed the text "No File" from the remarks as it indicates only whether DoD currently has a file with them or not and "No Record of Film being made/produced" or similar meaning sentences from the remarks of those movies that have the IMDB ID. The list is as below.
+7. We removed the text "No File" from the remarks as it indicates only whether DoD currently has a file with them or not and "No Record of Film being made/produced" or similar meaning sentences from the remarks of those movies that have the IMDB ID. The list is as below.
 
    1. 1ST FORCE
    2. 3RD DEGREE
@@ -104,9 +106,9 @@ The original and primary dataset for this project is taken from [here](https://w
    73. TWISTER'S REVENGE
    74. VON METZ INCIDENT, THE
 
-7. We have corrected spellings of the words in the remarks section. However, this correction is not exhaustive.
+8. We have corrected spellings of the words in the remarks section. However, this correction is not exhaustive.
 
-8. Other changes
+9. Other changes
    1. THUNDER RUN: Added Remarks from the official document.
 
 ## Change 1: March 20th, 2021
