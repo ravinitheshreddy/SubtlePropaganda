@@ -130,7 +130,6 @@ dmypy.json
 .history/
 
 # datasets folder
-data/
 
 .DS_Store
 .virtual_documents/
