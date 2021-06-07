@@ -18,6 +18,13 @@ The United States (US) is the military powerhouse of the world and at the same t
     ├── data <- The final, canonical data sets placed in subdirectories used in the notebooks for analysis
     │
     ├── notebooks <- Jupyter notebooks used for analysis.
+        ├──analysis_with_scattertext.ipynb: The notebook with analysis on the remarks and plots of movies using scattertext.
+        ├──data_aggregation.ipynb: The notebook used to augment the original dataset with plots, release dates, generes.
+        ├──movies_genres_assisstance.ipynb: The notebook with analysis on generes of the movies.
+        ├──NER_analysis_remarks.ipynb: The notebook with the analysis on the remarks of the movies using Named Entity Recognition analysis.
+        ├──scrape_reviews.ipynb: The notebook used to augment the dataset with user reviews of the movies on IMDB.
+        ├──sentiment_analysis.ipynb: The notebook with analysis on the remarks and plots of movies using Aspect Based Sentiment Analysis.
+        ├──support_production_assistance.ipynb: The notebook with basic EDA analysis on the dataset.
     │
     ├── Images <- The folder with images to be used in the report.
     │
@@ -25,7 +32,7 @@ The United States (US) is the military powerhouse of the world and at the same t
     │
     └── data_changes.md <- The markdown file detailing the changes made to the original dataset.
     |
-    └── TextPreprocessing.md <- The markdown file detaing the preprocessing steps performed on the text corpus.
+    ├──TextPreprocessing.md <- The markdown file detaing the preprocessing steps performed on the text corpus.
     |
     └── report: The directory contains the report of the project.
 
