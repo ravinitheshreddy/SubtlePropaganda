@@ -1,6 +1,6 @@
 # SubtlePropaganda
 
-This is a project repository for the DH-412 Semester project that analyses the Hollywood and US Department of Defence Collaboration.
+This is a project repository for the DH-412 History and the Digital 2021 Course project that analyses the Hollywood and U.S. Department of Defence Collaboration.
 
 ## Abstract
 
