@@ -2,9 +2,9 @@
 
 This is a project repository for the DH-412 Semester project that analyses the Hollywood and US Department of Defence Collaboration.
 
-## Project Description
+## Abstract
 
-The United States (US) is the military powerhouse of the world and at the same time, Hollywood is one of the oldest and largest film industries in the world. Therefore, examining the relationship between Hollywood and the Department of Defense (DoD) in the United States of America would explain what they are producing together. There have been large events in the past that have shown the effect of movies on the population. For example, after the movie Top Gun, produced by Jerry Bruckheimer and in collaboration with the Pentagon was released, the army set up recruitment counters outside the movie theatres to handle the numerous enlisting requests Keeping these aspects in mind, this research would help us understand the attitude of the DoD or the image that the DoD is willing to create in the public's mind in accepting/refusing to provide help to the movie makers.
+The Department of Defense of the United States of America (DoD) and Hollywood have a long-lasting and gainful relationship. Given that they are leaders in their respective fields, it is of particular interest to understand the collaboration between them. This article investigates 1) What the DoD offers to the film industry and what they get back in return and 2) How does the DoD decide to assist a movie or not. The study uses text mining and analysis on the remarks made by DoD while deciding on the decision to support or not. The results show that Hollywood receives the support of costly and military-related paraphernalia from the top agencies of the DoD and in return sheds good light on DoD in the movies. Simultaneously, DoD cast off the movies that narrated uncomfortable stories about the United States.
 
 ## Members
 
